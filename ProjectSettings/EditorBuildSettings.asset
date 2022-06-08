@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/punTutorial.unity
+    guid: 5c00e8764ce843c45b7f13f4c57bd5d7
+  - enabled: 1
+    path: Assets/Scenes/Molegram.unity
+    guid: 8ca87ed1a4f0efd4ea4304d314167441
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3ca24469f47a62748affdabe0c5b9193, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: bbde20f563094f0498c3e0e64408e4f4, type: 2}
